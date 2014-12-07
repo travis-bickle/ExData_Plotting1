@@ -8,3 +8,4 @@ Contains project report for [coursera](https://coursera.org) course [**Explorato
 
 ##ExData_Plotting1
 The [repo](https://github.com/rdpeng/ExData_Plotting1) was forked and then the readme was edited. Then, the R scripts was added. The figures were added to a sub-directory *results*
+Leaving *figures* directory for reference.
