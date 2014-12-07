@@ -1,4 +1,4 @@
-exploaratory-data-analysis
+Exploratory Data Analysis
 ==========================
 
 Course homework book.
